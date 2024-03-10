@@ -1,0 +1,57 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F883 ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"9 C:\Study\Embeded\PIC\Examples\08c-uart_rx\main.c
+[v _uart_read uart_read `(uc  1 e 1 0 ]
+"19
+[v _main main `(v  1 e 1 0 ]
+"166 C:/Program Files/Microchip/MPLABX/v6.15/packs/Microchip/PIC16Fxxx_DFP/1.4.149/xc8\pic\include\proc\pic16f883.h
+[v _PORTA PORTA `VEuc  1 e 1 @5 ]
+"1061
+[v _RCREG RCREG `VEuc  1 e 1 @26 ]
+"1337
+[v _TRISA TRISA `VEuc  1 e 1 @133 ]
+"2484
+[v _SPBRG SPBRG `VEuc  1 e 1 @153 ]
+"3229
+[v _ANSEL ANSEL `VEuc  1 e 1 @392 ]
+"3487
+[v _BRG16 BRG16 `VEb  1 e 0 @3131 ]
+"3514
+[v _BRGH BRGH `VEb  1 e 0 @1218 ]
+"3655
+[v _CREN CREN `VEb  1 e 0 @196 ]
+"3988
+[v _RCIDL RCIDL `VEb  1 e 0 @3134 ]
+"4045
+[v _SPEN SPEN `VEb  1 e 0 @199 ]
+"4099
+[v _SYNC SYNC `VEb  1 e 0 @1220 ]
+"4252
+[v _TRISC6 TRISC6 `VEb  1 e 0 @1086 ]
+"4255
+[v _TRISC7 TRISC7 `VEb  1 e 0 @1087 ]
+"19 C:\Study\Embeded\PIC\Examples\08c-uart_rx\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"20
+[v main@i i `uc  1 a 1 4 ]
+"40
+} 0
+"9
+[v _uart_read uart_read `(uc  1 e 1 0 ]
+{
+"10
+[v uart_read@result result `uc  1 a 1 0 ]
+"17
+} 0

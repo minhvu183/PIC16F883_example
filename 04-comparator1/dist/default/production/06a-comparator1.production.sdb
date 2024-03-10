@@ -1,0 +1,38 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F883 ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"9 C:\Study\Embeded\PIC\Examples\06a-comparator1\main.c
+[v _main main `(v  1 e 1 0 ]
+"3517 C:/Program Files/Microchip/MPLABX/v6.15/packs/Microchip/PIC16Fxxx_DFP/1.4.149/xc8\pic\include\proc\pic16f883.h
+[v _C1CH0 C1CH0 `VEb  1 e 0 @2104 ]
+"3520
+[v _C1CH1 C1CH1 `VEb  1 e 0 @2105 ]
+"3529
+[v _C1OE C1OE `VEb  1 e 0 @2109 ]
+"3532
+[v _C1ON C1ON `VEb  1 e 0 @2111 ]
+"3538
+[v _C1POL C1POL `VEb  1 e 0 @2108 ]
+"3541
+[v _C1R C1R `VEb  1 e 0 @2106 ]
+"4186
+[v _TRISA0 TRISA0 `VEb  1 e 0 @1064 ]
+"4195
+[v _TRISA3 TRISA3 `VEb  1 e 0 @1067 ]
+"4198
+[v _TRISA4 TRISA4 `VEb  1 e 0 @1068 ]
+"9 C:\Study\Embeded\PIC\Examples\06a-comparator1\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"24
+} 0

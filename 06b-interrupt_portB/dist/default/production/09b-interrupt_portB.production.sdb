@@ -1,0 +1,51 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F883 ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"11 C:\Study\Embeded\PIC\Examples\09b-interrupt_portB\main.c
+[v _main main `(v  1 e 1 0 ]
+"36
+[v _ISR ISR `II(v  1 e 1 0 ]
+"228 C:/Program Files/Microchip/MPLABX/v6.15/packs/Microchip/PIC16Fxxx_DFP/1.4.149/xc8\pic\include\proc\pic16f883.h
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"1399
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"2258
+[v _IOCB IOCB `VEuc  1 e 1 @150 ]
+"3273
+[v _ANSELH ANSELH `VEuc  1 e 1 @393 ]
+"3715
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"3946
+[v _RBIE RBIE `VEb  1 e 0 @91 ]
+"3949
+[v _RBIF RBIF `VEb  1 e 0 @88 ]
+"3952
+[v _RC0 RC0 `VEb  1 e 0 @56 ]
+"3955
+[v _RC1 RC1 `VEb  1 e 0 @57 ]
+"4234
+[v _TRISC0 TRISC0 `VEb  1 e 0 @1080 ]
+"4237
+[v _TRISC1 TRISC1 `VEb  1 e 0 @1081 ]
+"4417
+[v _nRBPU nRBPU `VEb  1 e 0 @1039 ]
+"11 C:\Study\Embeded\PIC\Examples\09b-interrupt_portB\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"34
+} 0
+"36
+[v _ISR ISR `II(v  1 e 1 0 ]
+{
+"44
+} 0

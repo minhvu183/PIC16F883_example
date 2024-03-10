@@ -1,0 +1,77 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F883 ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"11 C:\Study\Embeded\PIC\Examples\09a-mssp_spi\main.c
+[v _spi_write spi_write `(uc  1 e 1 0 ]
+"18
+[v _spi_read spi_read `(uc  1 e 1 0 ]
+"24
+[v _main main `(v  1 e 1 0 ]
+"166 C:/Program Files/Microchip/MPLABX/v6.15/packs/Microchip/PIC16Fxxx_DFP/1.4.149/xc8\pic\include\proc\pic16f883.h
+[v _PORTA PORTA `VEuc  1 e 1 @5 ]
+"764
+[v _SSPBUF SSPBUF `VEuc  1 e 1 @19 ]
+"1337
+[v _TRISA TRISA `VEuc  1 e 1 @133 ]
+"3229
+[v _ANSEL ANSEL `VEuc  1 e 1 @392 ]
+"3460
+[v _BF BF `VEb  1 e 0 @1184 ]
+"3649
+[v _CKE CKE `VEb  1 e 0 @1190 ]
+"3652
+[v _CKP CKP `VEb  1 e 0 @164 ]
+"3973
+[v _RC7 RC7 `VEb  1 e 0 @63 ]
+"4042
+[v _SMP SMP `VEb  1 e 0 @1191 ]
+"4057
+[v _SSPEN SSPEN `VEb  1 e 0 @165 ]
+"4066
+[v _SSPM0 SSPM0 `VEb  1 e 0 @160 ]
+"4069
+[v _SSPM1 SSPM1 `VEb  1 e 0 @161 ]
+"4072
+[v _SSPM2 SSPM2 `VEb  1 e 0 @162 ]
+"4075
+[v _SSPM3 SSPM3 `VEb  1 e 0 @163 ]
+"4243
+[v _TRISC3 TRISC3 `VEb  1 e 0 @1083 ]
+"4246
+[v _TRISC4 TRISC4 `VEb  1 e 0 @1084 ]
+"4249
+[v _TRISC5 TRISC5 `VEb  1 e 0 @1085 ]
+"4255
+[v _TRISC7 TRISC7 `VEb  1 e 0 @1087 ]
+"24 C:\Study\Embeded\PIC\Examples\09a-mssp_spi\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"25
+[v main@i i `uc  1 a 1 4 ]
+"80
+} 0
+"18
+[v _spi_read spi_read `(uc  1 e 1 0 ]
+{
+"19
+[v spi_read@data data `uc  1 a 1 1 ]
+"22
+} 0
+"11
+[v _spi_write spi_write `(uc  1 e 1 0 ]
+{
+[v spi_write@data data `uc  1 a 1 wreg ]
+[v spi_write@data data `uc  1 a 1 wreg ]
+[v spi_write@data data `uc  1 a 1 0 ]
+"16
+} 0

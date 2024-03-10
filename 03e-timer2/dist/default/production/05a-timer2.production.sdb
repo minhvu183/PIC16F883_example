@@ -1,0 +1,44 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F883 ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.45\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"11 C:\Study\Embeded\Pic\Examples\05a-timer2\main.c
+[v _main main `(v  1 e 1 0 ]
+"686 C:/Program Files/Microchip/MPLABX/v6.15/packs/Microchip/PIC16Fxxx_DFP/1.4.149/xc8\pic\include\proc\pic16f883.h
+[v _TMR2 TMR2 `VEuc  1 e 1 @17 ]
+"1883
+[v _PR2 PR2 `VEuc  1 e 1 @146 ]
+"3958
+[v _RC2 RC2 `VEb  1 e 0 @58 ]
+"4138
+[v _T2CKPS0 T2CKPS0 `VEb  1 e 0 @144 ]
+"4141
+[v _T2CKPS1 T2CKPS1 `VEb  1 e 0 @145 ]
+"4168
+[v _TMR2IF TMR2IF `VEb  1 e 0 @97 ]
+"4171
+[v _TMR2ON TMR2ON `VEb  1 e 0 @146 ]
+"4174
+[v _TOUTPS0 TOUTPS0 `VEb  1 e 0 @147 ]
+"4177
+[v _TOUTPS1 TOUTPS1 `VEb  1 e 0 @148 ]
+"4180
+[v _TOUTPS2 TOUTPS2 `VEb  1 e 0 @149 ]
+"4183
+[v _TOUTPS3 TOUTPS3 `VEb  1 e 0 @150 ]
+"4240
+[v _TRISC2 TRISC2 `VEb  1 e 0 @1082 ]
+"11 C:\Study\Embeded\Pic\Examples\05a-timer2\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"33
+} 0
